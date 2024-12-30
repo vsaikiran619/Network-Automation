@@ -1,0 +1,8 @@
+Syntax for executing the .py file :
+
+python3 custom_ips_ping_test.py  10.103.28.1 10.103.28.2 --log my-ping-log.log
+
+ex:2
+python enhanced_ping_custom_ips.py 8.8.8.8 8.8.4.4 192.168.1.1 10.0.0.1 --workers 10 --log my_ping_log.log
+
+cat the "my-ping-log.log" file  

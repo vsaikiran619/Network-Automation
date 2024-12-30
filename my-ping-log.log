@@ -1,0 +1,5 @@
+2024-07-03 16:44:12,962 - INFO - Starting to ping IP addresses...
+2024-07-03 16:44:12,964 - INFO - 10.103.28.1 is reachable
+2024-07-03 16:44:12,964 - INFO - 10.103.28.2 is reachable
+2024-07-03 16:44:12,965 - INFO - Reachable IPs: ['10.103.28.1', '10.103.28.2']
+2024-07-03 16:44:12,965 - INFO - Unreachable IPs: []

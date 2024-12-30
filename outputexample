@@ -1,0 +1,127 @@
+Enter your Username:**************************************************
+switch1-3.hyd uptime is 1 year, 45 weeks, 2 days, 5 hours, 6 minutes
+ System serial number            : FCW2233B21H
+The following ports are not configured Port-security but a device is connected.
+   28    d067.e514.606f    SecureDynamic                 Gi0/46       -
+
+The followin ports are not connected and not inuse.
+ Gi0/5                        notconnect   23           auto   auto 10/100/1000BaseTX
+Gi0/10    "Hyd access pc"    notconnect   18           auto   auto 10/100/1000BaseTX
+Gi0/16    "Srinig_pc"        notconnect   28           auto   auto 10/100/1000BaseTX
+Gi0/17    "amani_pc_sec"     notconnect   22           auto   auto 10/100/1000BaseTX
+Gi0/25    "CRM-Bhavani"      notconnect   17           auto   auto 10/100/1000BaseTX
+Gi0/31    routing_test       notconnect   31           auto   auto 10/100/1000BaseTX
+Gi0/49    "To switch1-2.hiuc notconnect   1            auto   auto 10/100/1000BaseTX SFP
+Gi0/51    "To switch1-3.hiuc notconnect   1            auto   auto 10/100/1000BaseTX SFP
+**************************************************
+
+
+**************************************************
+switch6a-6.hyd_2960 uptime is 2 years, 22 weeks, 1 day, 2 minutes
+ System serial number            : FCW2232A1ZT
+The following ports are not configured Port-security but a device is connected.
+   10    000b.8263.a10d    SecureDynamic                 Gi0/3        -
+  10    000b.8263.a98d    SecureDynamic                 Gi0/21       -
+  10    88a4.c2f2.230b    SecureDynamic                 Gi0/23       -
+
+The followin ports are not connected and not inuse.
+ Gi0/2     "Mashok_pc"        notconnect   27           auto   auto 10/100/1000BaseTX
+Gi0/7     "abhi_pc"          notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/8                        notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/10                       notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/11                       notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/13                       notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/14                       notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/16    MVK_Laptop_RT_4473 notconnect   25           auto   auto 10/100/1000BaseTX
+Gi0/22                       notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/37                       notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/48    "Magicjack testing notconnect   10           auto   auto 10/100/1000BaseTX
+Gi0/50                       notconnect   1            auto   auto Not Present
+Gi0/52                       notconnect   1            auto   auto Not Present
+**************************************************
+
+
+**************************************************
+switch1-1.hyd uptime is 1 year, 45 weeks, 2 days, 5 hours, 29 minutes
+ System serial number            : FOC1406Z2FV
+The following ports are not configured Port-security but a device is connected.
+   28    000b.8263.a19d    SecureDynamic            Fa0/10       -
+  28    000b.8263.a1aa    SecureDynamic            Fa0/11       -
+  28    d067.e514.632f    SecureDynamic            Fa0/11       -
+  25    000b.8263.a9d2    SecureDynamic            Fa0/21       -
+  25    00e0.4c36.1e53    SecureDynamic            Fa0/21       -
+  25    00e0.4c68.01d4    SecureDynamic            Fa0/21       -
+  28    000b.8263.a04e    SecureDynamic            Fa0/31       -
+  28    1ca0.b87d.7c45    SecureDynamic            Fa0/31       -
+
+The followin ports are not connected and not inuse.
+ Fa0/28    Vivek_pc           notconnect   28           auto   auto 10/100BaseTX
+Fa0/35    "beside-srini"     notconnect   31           auto   auto 10/100BaseTX
+Fa0/45    "dvadlam-pc"       notconnect   22           auto   auto 10/100BaseTX
+**************************************************
+
+
+**************************************************
+switch6a-1.hyd_2960 uptime is 2 years, 22 weeks, 1 day, 11 minutes
+ System serial number            : FOC1412X00Q
+The following ports are not configured Port-security but a device is connected.
+   10    88a4.c24e.7f3f    SecureDynamic            Fa0/9        -
+  27    5c60.babe.c920    SecureDynamic            Fa0/11       -
+  10    000b.8263.a0bc    SecureDynamic            Fa0/18       -
+  27    5c60.babe.1b0e    SecureDynamic            Fa0/19       -
+  28    8a22.1f18.1a30    SecureDynamic            Fa0/32       -
+  10    000b.8263.a08f    SecureDynamic            Fa0/38       -
+  27    5c60.babe.d9a7    SecureDynamic            Fa0/45       -
+
+The followin ports are not connected and not inuse.
+ Fa0/4     "kanad pc"         notconnect   27           auto   auto 10/100BaseTX
+Fa0/5     6th floor security notconnect   28           auto   auto 10/100BaseTX
+Fa0/48    "P_pavan pc"       notconnect   27           auto   auto 10/100BaseTX
+Po2                          notconnect   unassigned   auto   auto 
+**************************************************
+
+
+**************************************************
+switch6a-5 uptime is 2 years, 22 weeks, 1 day, 32 minutes
+ System serial number            : FOC1406Z2FP
+The following ports are not configured Port-security but a device is connected.
+   10    6c24.0841.4f14    SecureDynamic            Fa0/9        -
+  10    88a4.c2f2.22bd    SecureDynamic            Fa0/17       -
+  10    000b.8263.a059    SecureDynamic            Fa0/20       -
+  10    88a4.c24e.47e1    SecureDynamic            Fa0/20       -
+  10    88a4.c24e.666d    SecureDynamic            Fa0/34       -
+
+The followin ports are not connected and not inuse.
+ Fa0/1     "mac_mini_intervie notconnect   28           auto   auto 10/100BaseTX
+Fa0/3     "vspriya_pc"       notconnect   10           auto   auto 10/100BaseTX
+Fa0/6     meetings6B         notconnect   10           auto   auto 10/100BaseTX
+Fa0/13    "pdesire_PC"       notconnect   27           auto   auto 10/100BaseTX
+Fa0/14    "ssaravan PC"      notconnect   10           auto   auto 10/100BaseTX
+Fa0/15                       notconnect   10           auto   auto 10/100BaseTX
+Fa0/19    new-hire-mahesh-pc notconnect   10           auto   auto 10/100BaseTX
+Fa0/22    avadrevu PC        notconnect   27           auto   auto 10/100BaseTX
+Fa0/25    corpsys_test       notconnect   33           auto   auto 10/100BaseTX
+Fa0/29    "MJ_phone"         notconnect   27           auto   auto 10/100BaseTX
+Fa0/31                       notconnect   33           auto   auto 10/100BaseTX
+Fa0/32    "durgendar_pc"     notconnect   27           auto   auto 10/100BaseTX
+Fa0/40                       notconnect   33           auto   auto 10/100BaseTX
+Fa0/43    "Slakshmi"         notconnect   10           auto   auto 10/100BaseTX
+Fa0/47                       notconnect   25           auto   auto 10/100BaseTX
+Fa0/48    "MJ_NOC phone"     notconnect   28           auto   auto 10/100BaseTX
+**************************************************
+
+
+**************************************************
+switch6a-4.hyd_2960 uptime is 2 years, 22 weeks, 1 day, 18 minutes
+ System serial number            : FCQ1729Y466
+The following ports are not configured Port-security but a device is connected.
+   25    5ce9.1ee9.9766    SecureDynamic              Fa0/9        -
+
+The followin ports are not connected and not inuse.
+ 
+**************************************************
+
+
+
+Total script execution time in Seconds:
+0:00:09.050047
